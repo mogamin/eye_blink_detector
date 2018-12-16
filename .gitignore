@@ -1,0 +1,7 @@
+shape_predictor_68_face_landmarks.dat
+__pycache__
+build
+dist
+.vscode/.ropeproject/config.py
+.vscode/.ropeproject/objectdb
+.vscode/launch.json
